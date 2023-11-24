@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BThoom
-- 👀 I’m interested in Software Development, Product Development and VR/AR projects
+- 👀 I’m interested in Product Development, Sustainable Mobility, Wearable Tech and VR/AR projects
 - 🌱 I’m currently learning python for data analysis applications 
 - 💞️ I’m looking to collaborate on EVs, open inverter - motor controller projects
 - 📫 How to reach me bhargavthoom@outlook.com
